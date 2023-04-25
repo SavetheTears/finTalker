@@ -1,0 +1,5 @@
+.DS_Store
+./chatbot/db.sqlite3
+__pycache__/*
+.ipynb_checkpoints
+jobs/jobs.csv
