@@ -1,1 +1,1 @@
-Hello 🌱, I am a chatbot 🤖 specified on economic and finance 💰 based on DistilBERT 🤗 . I can provide suggestions on courses 🙇🏼‍♂️ that you may want to take to help you get offer 🥳 .
+Hello 🌱, I am a chatbot 🤖 specified on economic and finance 💰 based on DistilBERT 🤗 . I can provide suggestions on courses 🙇🏼‍♂️ that you may want to take to help you get the offer 🥳 .

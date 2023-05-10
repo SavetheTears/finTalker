@@ -11,14 +11,20 @@ bot = ChatBot("Arya")
 #trainer.train("chatterbot.corpus.english")
 
 conversation = [
-"Hello",
-"Hi there!",
-"How are you doing?",
-"I'm doing great.",
-"That is good to hear",
-"Thank you.",
-"You're welcome."
+    "accounting",
+    "Risk Manager,Portfolio Associate,Mortgage Advisor,Bank Manager,Insurance Manager,Actuary, Economist, Industry Analyst, Accounts Manager, Equity Research Associate",
+    "Industry Analyst",
+    "Intermediate financial accounting I,Introduction to financial accounting, Advanced financial accounting, Accounting data management and analytics, Introductory microeconomics, Analysis of economic data, Financial reporting and analysis of financial institutions, Advanced topics in auditing, Corporate governance and social responsibility, Introduction to management accounting",
+    "Hello",
+    "Hi there!",
+    "How are you doing?",
+    "I'm doing great.",
+    "That is good to hear",
+    "Thank you.",
+    "You're welcome."
 ]
+
+
 
 trainer = ListTrainer(bot)
 trainer.train(conversation)
